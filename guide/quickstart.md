@@ -42,9 +42,9 @@
 3. 找一个感兴趣的任务，点击 **🙋 领取**
 4. 开始工作！
 
-## 第五步：更新人池
+## 第五步：更新人才库
 
-完成任务后，更新你在 [人池](https://grassroots-project.github.io/website/pages/people.html) 的信息：
+完成任务后，更新你在 [人才库](https://grassroots-project.github.io/website/pages/people.html) 的信息：
 
 - 当前任务
 - 历史贡献

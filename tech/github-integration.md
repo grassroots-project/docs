@@ -22,7 +22,7 @@ Grassroots Project 使用 GitHub Issues 作为核心数据源。
 | 待领, 进行中, 已完成 | 状态 |
 | 文案, 设计, 技术, 运营... | 技能标签 |
 
-### 人池
+### 人才库
 
 Issue #1 存放成员列表，使用 Markdown 格式：
 
@@ -99,5 +99,5 @@ Token 仅存储在用户浏览器本地，不上传服务器。
 | 仓库 | 用途 |
 |------|------|
 | grassroots-project/website | 项目网站 |
-| grassroots-project/tasks | 任务池、人池、资源池 |
+| grassroots-project/tasks | 任务池、人才库、资源池 |
 | grassroots-project/docs | 文档 |

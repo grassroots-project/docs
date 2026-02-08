@@ -11,7 +11,7 @@
 
 ### 核心概念
 - [三条腿](./concepts/three-pillars.md) - 比特币 × 网络 × AI
-- [池塘模式](./concepts/pool-model.md) - 任务池、人池、资源池
+- [池塘模式](./concepts/pool-model.md) - 任务池、人才库、资源池
 - [价值发现](./concepts/value-discovery.md) - 非线性成长机制
 
 ### 参与指南
@@ -26,7 +26,7 @@
 
 ### 运营手册
 - [任务管理](./operations/task-management.md) - 如何创建和管理任务
-- [成员管理](./operations/member-management.md) - 人池维护
+- [成员管理](./operations/member-management.md) - 人才库维护
 - [资源管理](./operations/resource-management.md) - 资源池维护
 
 ## 快速链接
@@ -35,7 +35,7 @@
 |------|------|
 | 🌐 项目网站 | https://grassroots-project.github.io/website/ |
 | 📋 任务池 | https://grassroots-project.github.io/website/pages/tasks.html |
-| 👥 人池 | https://grassroots-project.github.io/website/pages/people.html |
+| 👥 人才库 | https://grassroots-project.github.io/website/pages/people.html |
 | 📦 资源池 | https://grassroots-project.github.io/website/pages/resources.html |
 | 🤖 AI 助手 | https://grassroots-project.github.io/website/pages/assistant.html |
 | 📊 GitHub Issues | https://github.com/grassroots-project/tasks/issues |

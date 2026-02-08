@@ -29,7 +29,7 @@ website/
     ├── about.html          # 关于
     ├── tasks.html          # 任务池
     ├── kanban.html         # 看板
-    ├── people.html         # 人池
+    ├── people.html         # 人才库
     ├── resources.html      # 资源池
     ├── assistant.html      # AI 助手
     └── join.html           # 加入我们
@@ -50,7 +50,7 @@ website/
 - 实时同步 Issues 状态
 - 每 30 秒自动刷新
 
-### 人池 (people.html)
+### 人才库 (people.html)
 
 - 从 Issues 自动提取成员信息
 - 显示每人的任务参与情况

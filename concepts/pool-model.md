@@ -32,7 +32,7 @@ Grassroots Project 的组织方式是一个开放的池塘。
 - 状态：待领、进行中、已完成
 - 技能标签：文案、设计、技术、运营等
 
-### 👥 人池
+### 👥 人才库
 
 存放**成员信息**。
 
@@ -41,7 +41,7 @@ Grassroots Project 的组织方式是一个开放的池塘。
 | 内容 | 成员技能、时间、贡献 |
 | 谁可以编辑 | 成员自己 |
 | 存放位置 | [GitHub Issue #1](https://github.com/grassroots-project/tasks/issues/1) |
-| 前端 | [人池页面](https://grassroots-project.github.io/website/pages/people.html) |
+| 前端 | [人才库页面](https://grassroots-project.github.io/website/pages/people.html) |
 
 **成员属性**：
 - 加入时间
@@ -105,7 +105,7 @@ Grassroots Project 的组织方式是一个开放的池塘。
 1. 阅读项目介绍
 2. 完成筛选问卷
 3. 收到回复
-4. 添加信息到人池
+4. 添加信息到人才库
 5. 领取第一个任务
 ```
 
@@ -117,7 +117,7 @@ Grassroots Project 的组织方式是一个开放的池塘。
 3. 需要资源？从资源池申请
 4. 完成任务
 5. 更新任务状态
-6. 更新人池（历史贡献）
+6. 更新人才库（历史贡献）
 ```
 
 ### 使用资源

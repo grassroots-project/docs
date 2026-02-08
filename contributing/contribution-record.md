@@ -16,9 +16,9 @@
 - 添加评论说明完成情况
 - 状态会自动更新
 
-### 2. 人池
+### 2. 人才库
 
-[人池 Issue](https://github.com/grassroots-project/tasks/issues/1) 记录每个成员的：
+[人才库 Issue](https://github.com/grassroots-project/tasks/issues/1) 记录每个成员的：
 - 当前任务
 - 历史贡献
 
@@ -26,11 +26,11 @@
 
 如果贡献涉及代码或文档，Git 历史也是贡献记录。
 
-## 如何更新人池
+## 如何更新人才库
 
 完成任务后：
 
-1. 访问 [人池 Issue](https://github.com/grassroots-project/tasks/issues/1)
+1. 访问 [人才库 Issue](https://github.com/grassroots-project/tasks/issues/1)
 2. 找到你的信息
 3. 更新：
    - **当前任务**：移除已完成的任务
@@ -52,7 +52,7 @@
 
 ## 贡献统计
 
-[人池页面](https://grassroots-project.github.io/website/pages/people.html) 会自动展示：
+[人才库页面](https://grassroots-project.github.io/website/pages/people.html) 会自动展示：
 - 每个成员的任务数
 - 进行中和已完成的任务
 - 最近活动
