@@ -28,6 +28,7 @@
 - [任务管理](./operations/task-management.md) - 如何创建和管理任务
 - [成员管理](./operations/member-management.md) - 人才库维护
 - [资源管理](./operations/resource-management.md) - 资源池维护
+- [PR 审核流程](./PR_WORKFLOW.md) - 使用 PR 管理人才库和资源池
 
 ## 快速链接
 
@@ -39,6 +40,14 @@
 | 📦 资源池 | https://grassroots-project.github.io/website/pages/resources.html |
 | 🤖 AI 助手 | https://grassroots-project.github.io/website/pages/assistant.html |
 | 📊 GitHub Issues | https://github.com/grassroots-project/tasks/issues |
+
+## 项目仓库
+
+| 仓库 | 说明 | 链接 |
+|------|------|------|
+| [docs](https://github.com/grassroots-project/docs) | 项目文档 | https://github.com/grassroots-project/docs |
+| [website](https://github.com/grassroots-project/website) | 项目网站 | https://github.com/grassroots-project/website |
+| [tasks](https://github.com/grassroots-project/tasks) | 任务池、人才库、资源池 | https://github.com/grassroots-project/tasks |
 
 ## 贡献文档
 
