@@ -55,5 +55,5 @@
 ## 其他问题
 
 如果你的问题不在这里，可以：
-- 问 [AI 助手](https://grassroots-project.github.io/website/pages/assistant.html)
+- 问 [AI 助手](https://www.grassroots-project.app/pages/assistant.html)
 - 发邮件到 xiaoping.tang@gmail.com

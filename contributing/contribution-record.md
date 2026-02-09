@@ -52,7 +52,7 @@
 
 ## 贡献统计
 
-[人才库页面](https://grassroots-project.github.io/website/pages/people.html) 会自动展示：
+[人才库页面](https://www.grassroots-project.app/pages/people.html) 会自动展示：
 - 每个成员的任务数
 - 进行中和已完成的任务
 - 最近活动

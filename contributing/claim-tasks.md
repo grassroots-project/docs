@@ -4,7 +4,7 @@
 
 ## 访问任务池
 
-地址：https://grassroots-project.github.io/website/pages/tasks.html
+地址：https://www.grassroots-project.app/pages/tasks.html
 
 ## 登录 GitHub
 

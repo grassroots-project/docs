@@ -82,4 +82,4 @@ Grassroots Project 的核心机制：通过市场博弈发现价值的价格。
 ## 下一步
 
 - 了解 [如何加入](../contributing/how-to-join.md)
-- 或查看 [任务池](https://grassroots-project.github.io/website/pages/tasks.html)
+- 或查看 [任务池](https://www.grassroots-project.app/pages/tasks.html)

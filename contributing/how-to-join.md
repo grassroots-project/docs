@@ -101,7 +101,7 @@
 
 ## 第六步：领取第一个任务
 
-1. 访问 [任务池](https://grassroots-project.github.io/website/pages/tasks.html)
+1. 访问 [任务池](https://www.grassroots-project.app/pages/tasks.html)
 2. 登录 GitHub
 3. 选择一个感兴趣的任务
 4. 点击 **🙋 领取**

@@ -25,7 +25,7 @@ Grassroots Project 的组织方式是一个开放的池塘。
 | 谁可以添加 | 任何成员 |
 | 谁可以领取 | 任何成员 |
 | 存放位置 | [GitHub Issues](https://github.com/grassroots-project/tasks/issues) |
-| 前端 | [任务池页面](https://grassroots-project.github.io/website/pages/tasks.html) |
+| 前端 | [任务池页面](https://www.grassroots-project.app/pages/tasks.html) |
 
 **任务属性**：
 - 优先级：P0（必须先做）、P1（重要）、P2（探索）
@@ -41,7 +41,7 @@ Grassroots Project 的组织方式是一个开放的池塘。
 | 内容 | 成员技能、时间、贡献 |
 | 谁可以编辑 | 成员自己 |
 | 存放位置 | [GitHub Issue #1](https://github.com/grassroots-project/tasks/issues/1) |
-| 前端 | [人才库页面](https://grassroots-project.github.io/website/pages/people.html) |
+| 前端 | [人才库页面](https://www.grassroots-project.app/pages/people.html) |
 
 **成员属性**：
 - 加入时间
@@ -59,7 +59,7 @@ Grassroots Project 的组织方式是一个开放的池塘。
 | 内容 | 比特币、知识、工具、人力 |
 | 谁可以添加 | 任何成员 |
 | 存放位置 | [GitHub Issue #2](https://github.com/grassroots-project/tasks/issues/2) |
-| 前端 | [资源池页面](https://grassroots-project.github.io/website/pages/resources.html) |
+| 前端 | [资源池页面](https://www.grassroots-project.app/pages/resources.html) |
 
 **资源属性**：
 - 类型：比特币/知识/工具/人力

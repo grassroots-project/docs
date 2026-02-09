@@ -4,7 +4,7 @@
 
 ## 创建任务
 
-1. 访问 [任务池](https://grassroots-project.github.io/website/pages/tasks.html)
+1. 访问 [任务池](https://www.grassroots-project.app/pages/tasks.html)
 2. 点击 **✨ 添加任务**
 3. 填写 Issue 模板
 

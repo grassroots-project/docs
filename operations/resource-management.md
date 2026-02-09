@@ -53,7 +53,7 @@
 
 ## 资源页面
 
-[资源池页面](https://grassroots-project.github.io/website/pages/resources.html) 会自动：
+[资源池页面](https://www.grassroots-project.app/pages/resources.html) 会自动：
 - 解析资源列表
 - 显示统计（可用/已占用/待规划）
 - 支持按类型筛选

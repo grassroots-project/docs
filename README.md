@@ -34,11 +34,11 @@
 
 | 资源 | 链接 |
 |------|------|
-| 🌐 项目网站 | https://grassroots-project.github.io/website/ |
-| 📋 任务池 | https://grassroots-project.github.io/website/pages/tasks.html |
-| 👥 人才库 | https://grassroots-project.github.io/website/pages/people.html |
-| 📦 资源池 | https://grassroots-project.github.io/website/pages/resources.html |
-| 🤖 AI 助手 | https://grassroots-project.github.io/website/pages/assistant.html |
+| 🌐 项目网站 | https://www.grassroots-project.app/ |
+| 📋 任务池 | https://www.grassroots-project.app/pages/tasks.html |
+| 👥 人才库 | https://www.grassroots-project.app/pages/people.html |
+| 📦 资源池 | https://www.grassroots-project.app/pages/resources.html |
+| 🤖 AI 助手 | https://www.grassroots-project.app/pages/assistant.html |
 | 📊 GitHub Issues | https://github.com/grassroots-project/tasks/issues |
 
 ## 项目仓库

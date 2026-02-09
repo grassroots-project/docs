@@ -92,4 +92,4 @@ git commit -m "update"
 git push origin main
 ```
 
-部署 URL: https://grassroots-project.github.io/website/
+部署 URL: https://www.grassroots-project.app/
