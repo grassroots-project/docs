@@ -16,6 +16,10 @@
 
 ## 关于加入
 
+### Q：如何加入？
+
+通过 GitHub Issue 表单提交申请：[提交加入申请](https://github.com/grassroots-project/tasks/issues/new?template=join_request.yml)。管理员审核通过后，你的信息会自动添加到人才库。
+
 ### Q：我需要付费吗？
 
 不需要。加入和参与完全免费。
@@ -46,7 +50,7 @@
 
 ### Q：我的贡献如何被记录？
 
-通过 GitHub Issues 和人才库记录。完成任务后更新你的人才库信息。
+任务状态会自动同步到人才库。领取任务时记录"当前任务"，完成后自动归入"历史贡献"。
 
 ### Q：贡献会有回报吗？
 
@@ -56,4 +60,4 @@
 
 如果你的问题不在这里，可以：
 - 问 [AI 助手](https://www.grassroots-project.app/pages/assistant.html)
-- 发邮件到 xiaoping.tang@gmail.com
+- 在 GitHub 上提 Issue 讨论

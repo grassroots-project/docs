@@ -4,13 +4,16 @@
 
 ## 资源池位置
 
-[GitHub Issue #2](https://github.com/grassroots-project/tasks/issues/2)
+[`data/resources.md`](https://github.com/grassroots-project/tasks/blob/main/data/resources.md)（在 grassroots-tasks 仓库中）
 
 ## 添加资源
 
-1. 编辑资源池 Issue
-2. 在"资源列表"部分添加新资源
-3. 使用标准模板
+通过 GitHub Issue 表单自动化添加：
+
+1. 填写 [添加资源表单](https://github.com/grassroots-project/tasks/issues/new?template=add_resource.yml)
+2. 管理员审核后打 `approved` 标签
+3. GitHub Action 自动生成 PR，将资源添加到 `data/resources.md`
+4. 合并 PR 后资源入库
 
 ### 资源模板
 
@@ -24,6 +27,21 @@
 - **使用说明**：[如何使用这个资源]
 - **链接**：[相关链接，如果有]
 ```
+
+## 更新资源状态
+
+通过 Issue 表单自动化更新：
+
+1. 填写 [更新资源状态表单](https://github.com/grassroots-project/tasks/issues/new?template=update_resource.yml)
+2. 管理员打 `approved` 标签后，GitHub Action 直接提交更新
+
+## 申请使用资源
+
+通过 Issue 表单驱动：
+
+1. 填写 [申请使用资源表单](https://github.com/grassroots-project/tasks/issues/new?template=use_resource.yml)
+2. 管理员打 `approved` 标签后，自动更新资源状态为"已占用"并记录使用信息
+3. 使用完毕关闭 Issue，资源状态自动恢复为"可用"
 
 ## 资源类型
 
@@ -42,14 +60,6 @@
 | 已占用 | 当前有人在用 |
 | 待规划 | 尚未明确用途 |
 | 暂停 | 暂时不可用 |
-
-## 使用流程
-
-1. 查看资源池，确认资源可用
-2. 与负责人沟通
-3. 使用资源
-4. 使用后更新状态
-5. 必要时记录使用情况
 
 ## 资源页面
 
